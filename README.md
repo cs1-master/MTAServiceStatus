@@ -2,7 +2,7 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/github/cheesemacfly/MTAServiceStatus?svg=true&branch=master)](https://ci.appveyor.com/project/cheesemacfly/mtaservicestatus/branch/master)
 [![NuGet](https://img.shields.io/nuget/v/MTAServiceStatus.svg)](https://www.nuget.org/packages/MTAServiceStatus)
 
-### What?
+### What???
 
 Simple C# library to get the latest MTA service status.  
 Available as a nuget package here: https://www.nuget.org/packages/MTAServiceStatus  
